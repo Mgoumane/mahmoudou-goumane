@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/mahmoudou-goumane/static/css/main.ea104e19.css",
+    "main.js": "/mahmoudou-goumane/static/js/main.91afbeda.js",
+    "static/js/787.8f0eac1b.chunk.js": "/mahmoudou-goumane/static/js/787.8f0eac1b.chunk.js",
+    "static/media/ma-photo.jpg": "/mahmoudou-goumane/static/media/ma-photo.1ce15752508b7beae8cd.jpg",
+    "static/media/recommandation1.jpg": "/mahmoudou-goumane/static/media/recommandation1.db3012e11bf9b71b6f80.jpg",
+    "static/media/recommandation2.jpg": "/mahmoudou-goumane/static/media/recommandation2.eb561602d1e88e38a79a.jpg",
+    "static/media/recommandation3.jpg": "/mahmoudou-goumane/static/media/recommandation3.1d36670a2c840206d16a.jpg",
+    "static/media/recommandation4.jpeg": "/mahmoudou-goumane/static/media/recommandation4.809be623680944491c5c.jpeg",
+    "static/media/logoBootstrap.png": "/mahmoudou-goumane/static/media/logoBootstrap.c94624d7ddff5fa9759f.png",
+    "static/media/logoAngular.png": "/mahmoudou-goumane/static/media/logoAngular.56be425e2123d69c9b9c.png",
+    "static/media/logoIonic.png": "/mahmoudou-goumane/static/media/logoIonic.06394f79b151cf59b611.png",
+    "static/media/tuktukProjet.png": "/mahmoudou-goumane/static/media/tuktukProjet.1e2e41003deffdf7cb9d.png",
+    "static/media/tuktukProjetMobileSize.png": "/mahmoudou-goumane/static/media/tuktukProjetMobileSize.83769b9609505047d918.png",
+    "static/media/logoLaravel.png": "/mahmoudou-goumane/static/media/logoLaravel.02f566469e22ec39466d.png",
+    "static/media/logoTypeScript.webp": "/mahmoudou-goumane/static/media/logoTypeScript.ec4e56fde827dd479d8a.webp",
+    "static/media/alohaScan1.webp": "/mahmoudou-goumane/static/media/alohaScan1.1de24a01d025a0787c44.webp",
+    "static/media/alohaScan2.webp": "/mahmoudou-goumane/static/media/alohaScan2.6fbc8e6be4199003d698.webp",
+    "index.html": "/mahmoudou-goumane/index.html",
+    "main.ea104e19.css.map": "/mahmoudou-goumane/static/css/main.ea104e19.css.map",
+    "main.91afbeda.js.map": "/mahmoudou-goumane/static/js/main.91afbeda.js.map",
+    "787.8f0eac1b.chunk.js.map": "/mahmoudou-goumane/static/js/787.8f0eac1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea104e19.css",
+    "static/js/main.91afbeda.js"
+  ]
+}
