@@ -1,0 +1,26 @@
+#button2 {
+    border: 1px solid;
+    border-color: #AD238A;
+    border-radius: 10px;
+    
+}
+
+
+#maPhoto{
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    position:relative;
+    z-index: 2;
+    
+}
+#borderDecale{
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    border: #8bc6ee solid 10px;
+    TOP: 10%;
+    right: 40%;
+    position:relative;
+    z-index: 1;
+}

@@ -1,0 +1,14 @@
+.navbar-nav .nav-link{
+    text-decoration: none;
+    color: white;
+}
+
+
+.bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 5px 0;
+    transition: 0.4s;
+}
